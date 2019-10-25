@@ -1,6 +1,8 @@
 # ZeroByteFileAutomation
 The Zero Byte file searching automation project is very structured and user-friendly.
-User-friendly means to say it will prompt user everytime when it is about to take any critical steps such as deletion etc.
+User-friendly means to say it will prompt user everytime 
+when it is about to take any critical steps such as deletion etc.
+
 The Project has four major functions :
 1. Searching of file
 2. Asking for backup
